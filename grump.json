@@ -1,0 +1,10 @@
+{
+  "defaultCommand": "search",
+  "commands": {
+    "search": {
+      "scriptType": "node",
+      "scriptPath": "search.js",
+      "vars": {}
+    }
+  }
+}
